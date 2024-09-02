@@ -1,0 +1,15 @@
+G:\kona\Bdjobs\Toursim\Aggregator\bin\Debug\net8.0\Aggregator.deps.json
+G:\kona\Bdjobs\Toursim\Aggregator\bin\Debug\net8.0\Aggregator.dll
+G:\kona\Bdjobs\Toursim\Aggregator\bin\Debug\net8.0\Aggregator.pdb
+G:\kona\Bdjobs\Toursim\Aggregator\bin\Debug\net8.0\Repository.dll
+G:\kona\Bdjobs\Toursim\Aggregator\bin\Debug\net8.0\Repository.pdb
+G:\kona\Bdjobs\Toursim\Aggregator\obj\Debug\net8.0\Aggregator.csproj.AssemblyReference.cache
+G:\kona\Bdjobs\Toursim\Aggregator\obj\Debug\net8.0\Aggregator.GeneratedMSBuildEditorConfig.editorconfig
+G:\kona\Bdjobs\Toursim\Aggregator\obj\Debug\net8.0\Aggregator.AssemblyInfoInputs.cache
+G:\kona\Bdjobs\Toursim\Aggregator\obj\Debug\net8.0\Aggregator.AssemblyInfo.cs
+G:\kona\Bdjobs\Toursim\Aggregator\obj\Debug\net8.0\Aggregator.csproj.CoreCompileInputs.cache
+G:\kona\Bdjobs\Toursim\Aggregator\obj\Debug\net8.0\Aggregator.csproj.Up2Date
+G:\kona\Bdjobs\Toursim\Aggregator\obj\Debug\net8.0\Aggregator.dll
+G:\kona\Bdjobs\Toursim\Aggregator\obj\Debug\net8.0\refint\Aggregator.dll
+G:\kona\Bdjobs\Toursim\Aggregator\obj\Debug\net8.0\Aggregator.pdb
+G:\kona\Bdjobs\Toursim\Aggregator\obj\Debug\net8.0\ref\Aggregator.dll

@@ -1,0 +1,17 @@
+G:\kona\Bdjobs\Toursim\Handler\bin\Debug\net8.0\Handler.deps.json
+G:\kona\Bdjobs\Toursim\Handler\bin\Debug\net8.0\Handler.dll
+G:\kona\Bdjobs\Toursim\Handler\bin\Debug\net8.0\Handler.pdb
+G:\kona\Bdjobs\Toursim\Handler\bin\Debug\net8.0\DTO.dll
+G:\kona\Bdjobs\Toursim\Handler\bin\Debug\net8.0\Repository.dll
+G:\kona\Bdjobs\Toursim\Handler\bin\Debug\net8.0\DTO.pdb
+G:\kona\Bdjobs\Toursim\Handler\bin\Debug\net8.0\Repository.pdb
+G:\kona\Bdjobs\Toursim\Handler\obj\Debug\net8.0\Handler.csproj.AssemblyReference.cache
+G:\kona\Bdjobs\Toursim\Handler\obj\Debug\net8.0\Handler.GeneratedMSBuildEditorConfig.editorconfig
+G:\kona\Bdjobs\Toursim\Handler\obj\Debug\net8.0\Handler.AssemblyInfoInputs.cache
+G:\kona\Bdjobs\Toursim\Handler\obj\Debug\net8.0\Handler.AssemblyInfo.cs
+G:\kona\Bdjobs\Toursim\Handler\obj\Debug\net8.0\Handler.csproj.CoreCompileInputs.cache
+G:\kona\Bdjobs\Toursim\Handler\obj\Debug\net8.0\Handler.csproj.Up2Date
+G:\kona\Bdjobs\Toursim\Handler\obj\Debug\net8.0\Handler.dll
+G:\kona\Bdjobs\Toursim\Handler\obj\Debug\net8.0\refint\Handler.dll
+G:\kona\Bdjobs\Toursim\Handler\obj\Debug\net8.0\Handler.pdb
+G:\kona\Bdjobs\Toursim\Handler\obj\Debug\net8.0\ref\Handler.dll

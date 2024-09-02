@@ -1,0 +1,11 @@
+G:\kona\Bdjobs\Toursim\DTO\bin\Debug\net8.0\DTO.deps.json
+G:\kona\Bdjobs\Toursim\DTO\bin\Debug\net8.0\DTO.dll
+G:\kona\Bdjobs\Toursim\DTO\bin\Debug\net8.0\DTO.pdb
+G:\kona\Bdjobs\Toursim\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+G:\kona\Bdjobs\Toursim\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+G:\kona\Bdjobs\Toursim\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+G:\kona\Bdjobs\Toursim\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+G:\kona\Bdjobs\Toursim\DTO\obj\Debug\net8.0\DTO.dll
+G:\kona\Bdjobs\Toursim\DTO\obj\Debug\net8.0\refint\DTO.dll
+G:\kona\Bdjobs\Toursim\DTO\obj\Debug\net8.0\DTO.pdb
+G:\kona\Bdjobs\Toursim\DTO\obj\Debug\net8.0\ref\DTO.dll
